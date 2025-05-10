@@ -7,3 +7,5 @@ Pe liniile 5 si 6 se pot seta limitele de clauze pentru algoritmii Rezolutie si 
 De la linia 626 pana la linia 645 se afla setari pentru a configura limite pentru algoritmi, modul de generare a testelor (daca optiunea este aleasa) sau introducerea fisierului pentru test ales de utilizator.
 
 Apoi, dupa rulare, rezultatele vor aparea in terminal;
+
+Pentru a usura testarea codului, in folderul "Teste" se gasesc testele non-random utilizate pentru lucrare, si multe altele.
